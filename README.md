@@ -26,6 +26,7 @@ I will upload my daily class notes, Jupyter notebooks, and assignments here.
   - `phase-01-python/`
     - `class-01-intro/`
     - `class-02-print-variables/`
+    -  `Assignment-01-print-variables/`
   - `phase-02-numpy-pandas/`
   - ...
 - `projects/` → Final Projects
@@ -35,10 +36,7 @@ I will upload my daily class notes, Jupyter notebooks, and assignments here.
 
 ## ✨ My Progress
 
-✅ Class 01 → Intro & Installation
-
-✅ Class 02 → Print, Variables, Data Types
-
-✅ Assignment 01 → Print, Variables
-
+✅ Class 01 → Intro & Installation                                                                                                                                                                                                                   
+✅ Class 02 → Print, Variables, Data Types                                                                                                                                                                                                                 
+✅ Assignment 01 → Print, Variables                                                                                                                                                                                                                     
 ⬜ Class 03 → Coming soon
