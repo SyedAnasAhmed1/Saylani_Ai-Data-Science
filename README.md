@@ -26,6 +26,7 @@ I will upload my daily class notes, Jupyter notebooks, and assignments here.
   - `phase-01-python/`
     - `class-01-intro/`
     - `class-02-print-variables/`
+    - `class-03-String-Slicing_Part-1/`
     -  `Assignment-01-print-variables/`
   - `phase-02-numpy-pandas/`
   - ...
@@ -39,4 +40,5 @@ I will upload my daily class notes, Jupyter notebooks, and assignments here.
 ✅ Class 01 → Intro & Installation                                                                                                                                                                                                                   
 ✅ Class 02 → Print, Variables, Data Types                                                                                                                                                                                                                 
 ✅ Assignment 01 → Print, Variables                                                                                                                                                                                                                     
-⬜ Class 03 → Coming soon
+✅ Class 03 → String Slicing Part 1                                                                                                                                                                                                                                             
+⬜ Class 04 → Coming soon
